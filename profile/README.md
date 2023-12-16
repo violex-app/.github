@@ -1,3 +1,5 @@
+# Violex - Open Source Platform for Violin Players 🎻🎵
+
 ## Introduction
 Welcome to Violex, an open-source project dedicated to enhancing the violin practice experience! Our platform is intuitively designed to unlock the full potential of both beginner and expert violinists.
 
